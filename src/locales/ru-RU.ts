@@ -26,6 +26,7 @@ export default {
     failed: 'Не удалось',
     verify: 'Проверить',
     unauthorizedTips: 'Не авторизован, сначала подтвердите свою личность.',
+		stopResponding: 'Прекращение отклика',
   },
   chat: {
     newChatButton: 'Новый чат',
@@ -77,7 +78,7 @@ export default {
     siderButton: 'Хранилище подсказок',
     local: 'Локальное',
     online: 'Онлайн',
-        title: 'Название',
+    title: 'Название',
     description: 'Описание',
     clearStoreConfirm: 'Вы действительно хотите очистить данные?',
     importPlaceholder: 'Пожалуйста, вставьте здесь JSON-данные',
